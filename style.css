@@ -1033,6 +1033,8 @@ body.ready .music-btn {
 
   .music-btn {
     right: calc(50% - 240px);
+    
+  }
 
 .credit-branding {
   text-align: center;
@@ -1045,6 +1047,5 @@ body.ready .music-btn {
   padding: 20px 0 28px 0;
   width: 100%;
 }
-    
-  }
+  
 }
