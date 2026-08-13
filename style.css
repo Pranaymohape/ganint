@@ -1028,6 +1028,20 @@ body.ready .music-btn {
     box-shadow: 0 0 100px rgba(0,0,0,.65);
     border-left: 1px solid var(--border);
     border-right: 1px solid var(--border);
+
+
+
+    .credit-branding {
+  text-align: center;
+  color: var(--gold);
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  opacity: 0.85;
+  padding: 18px 0 24px 0;
+  width: 100%;
+}
   }
 
   .music-btn {
